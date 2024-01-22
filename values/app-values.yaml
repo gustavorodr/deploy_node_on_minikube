@@ -1,6 +1,0 @@
-app:
-  image:
-    repository: gustavo/desafio-kubernetes
-    tag: 1.0
-name: "Gustavo"
-
